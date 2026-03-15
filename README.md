@@ -1,5 +1,5 @@
 # Simple Calculator Web Application
-## Project Screenshot
+## Project Screenshot.
 
 ![Calculator Screenshot](calculator.png)
 
