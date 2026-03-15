@@ -1,4 +1,7 @@
 # Simple Calculator Web Application
+## Project Screenshot
+
+![Calculator Screenshot](calculator.png)
 
 ## About the Project
 This project is a simple web-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It is built using HTML, CSS, and JavaScript.
